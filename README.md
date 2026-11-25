@@ -46,6 +46,6 @@ Conflict exercise: Both branch changes were reviewed and this final wording reso
 - [x] Feature branch and chart script committed.
 - [x] Pull Request #1 merged.
 - [x] README merge conflict created.
-- [x] README conflict resolution prepared.
+- [x] README conflict resolution completed.
 - [ ] Conflict-resolution branch merged into `main`.
 - [ ] Git graph screenshot saved as `outputs/git-log-graph.png`.
