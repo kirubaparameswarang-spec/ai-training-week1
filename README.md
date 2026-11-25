@@ -36,3 +36,4 @@ python src/charts.py
 - [ ] Pull request opened and merged into `main`
 - [ ] Deliberate README merge conflict resolved and merged
 - [ ] `git log --oneline --graph` screenshot saved as `outputs/git-log-graph.png`
+Conflict exercise: README wording from branch SECOND.
