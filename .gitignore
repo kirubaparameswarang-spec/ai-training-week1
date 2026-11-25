@@ -1,0 +1,16 @@
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Generated chart output (uncomment if you do not want to commit charts)
+# outputs/*.png
